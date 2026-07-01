@@ -2,6 +2,11 @@ import { defineConfig } from 'vitepress'
 const gaMeasurementId = 'G-52VRCFXTN8'
 
 export default defineConfig({
+  vite: {
+    ssr: {
+      noExternal: ['@vercel/analytics'],
+    },
+  },
   title: 'PancakeSwap AI',
   description:
     'AI tools for building on PancakeSwap — skills, plugins, and agents for any coding agent.',
