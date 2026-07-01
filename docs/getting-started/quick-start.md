@@ -115,3 +115,4 @@ npx promptfoo view  # browse results in the browser
 - [Swap Integration](/skills/swap-integration) — integrate swaps into your app
 <!-- - [Hub Swap Planner](/skills/hub-swap-planner) — plan swaps through PCS Hub -->
 - [Hub API Integration](/skills/hub-api-integration) — embed PCS Hub in your frontend
+l
