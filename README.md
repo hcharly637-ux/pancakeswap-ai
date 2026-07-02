@@ -1,4 +1,4 @@
-# pancakeswap-ai
+
 
 PancakeSwap-specific AI tools (skills, plugins, agents) for developers and AI agents integrating the PancakeSwap ecosystem.
 
