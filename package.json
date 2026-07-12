@@ -52,6 +52,7 @@
     "@pancakeswap/solana-core-sdk": "^0.2.1",
     "@pancakeswap/v3-sdk": "^3.10.0",
     "@solana/spl-token": "^0.4.0",
+    "@vercel/analytics": "^2.0.1",
     "@vercel/firewall": "^1.1.2",
     "@vercel/node": "^3.0.0",
     "viem": "^2.46.3"
